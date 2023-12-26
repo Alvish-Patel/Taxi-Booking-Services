@@ -1,0 +1,77 @@
+$flaticon-font: "flaticon";
+
+@font-face {
+    font-family: $flaticon-font;
+    src: url("./flaticon.ttf?d5e5786f60bbf5f2738b06f62d2a1c1a") format("truetype"),
+url("./flaticon.woff?d5e5786f60bbf5f2738b06f62d2a1c1a") format("woff"),
+url("./flaticon.woff2?d5e5786f60bbf5f2738b06f62d2a1c1a") format("woff2"),
+url("./flaticon.eot?d5e5786f60bbf5f2738b06f62d2a1c1a#iefix") format("embedded-opentype"),
+url("./flaticon.svg?d5e5786f60bbf5f2738b06f62d2a1c1a#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon-map: (
+    "credit-card": "\f101",
+    "frontal-taxi-cab": "\f102",
+    "travel-case": "\f103",
+    "check-mark": "\f104",
+    "facebook": "\f105",
+    "twitter": "\f106",
+    "pinterest-circular-logo-symbol": "\f107",
+    "play-button": "\f108",
+    "apple-logo": "\f109",
+    "android-logo": "\f10a",
+    "user": "\f10b",
+    "message": "\f10c",
+    "play": "\f10d",
+);
+
+.flaticon-credit-card:before {
+    content: map-get($flaticon-map, "credit-card");
+}
+.flaticon-frontal-taxi-cab:before {
+    content: map-get($flaticon-map, "frontal-taxi-cab");
+}
+.flaticon-travel-case:before {
+    content: map-get($flaticon-map, "travel-case");
+}
+.flaticon-check-mark:before {
+    content: map-get($flaticon-map, "check-mark");
+}
+.flaticon-facebook:before {
+    content: map-get($flaticon-map, "facebook");
+}
+.flaticon-twitter:before {
+    content: map-get($flaticon-map, "twitter");
+}
+.flaticon-pinterest-circular-logo-symbol:before {
+    content: map-get($flaticon-map, "pinterest-circular-logo-symbol");
+}
+.flaticon-play-button:before {
+    content: map-get($flaticon-map, "play-button");
+}
+.flaticon-apple-logo:before {
+    content: map-get($flaticon-map, "apple-logo");
+}
+.flaticon-android-logo:before {
+    content: map-get($flaticon-map, "android-logo");
+}
+.flaticon-user:before {
+    content: map-get($flaticon-map, "user");
+}
+.flaticon-message:before {
+    content: map-get($flaticon-map, "message");
+}
+.flaticon-play:before {
+    content: map-get($flaticon-map, "play");
+}

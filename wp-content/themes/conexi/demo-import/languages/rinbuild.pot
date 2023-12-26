@@ -1,0 +1,2853 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: rinbuild version 1.0\n"
+"POT-Creation-Date: 2020-03-07 15:24+0600\n"
+"PO-Revision-Date: 2018-01-09 14:59+0500\n"
+"Last-Translator: amir <amirkhan0617@gmail.com>\n"
+"Language-Team: Template Path <muhibbur@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;_n;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPath-2: .\n"
+"X-Poedit-SearchPath-3: .\n"
+
+#: 404.php:28 includes/resource/options/404_setting.php:68
+msgid "404"
+msgstr ""
+
+#: 404.php:30
+msgid "Oops, This Page Not Be Found !"
+msgstr ""
+
+#: 404.php:37 templates/search.php:48
+msgid "Back To Home"
+msgstr ""
+
+#: comments.php:22
+msgid "Comments"
+msgstr ""
+
+#: comments.php:24
+msgid "Comment"
+msgstr ""
+
+#: comments.php:43
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:46
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:49
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:56
+msgid "Comments are closed."
+msgstr ""
+
+#: demo-import/class-merlin.php:453
+msgid "Something went wrong. Please refresh the page and try again!"
+msgstr ""
+
+#: demo-import/class-merlin.php:599
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: demo-import/class-merlin.php:604
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: demo-import/class-merlin.php:713
+#: includes/resource/options/headers_setting.php:278
+msgid "Welcome"
+msgstr ""
+
+#: demo-import/class-merlin.php:720
+msgid "Requirements"
+msgstr ""
+
+#: demo-import/class-merlin.php:724
+msgid "Child"
+msgstr ""
+
+#: demo-import/class-merlin.php:730
+msgid "License"
+msgstr ""
+
+#: demo-import/class-merlin.php:738
+msgid "Plugins"
+msgstr ""
+
+#: demo-import/class-merlin.php:746 demo-import/class-merlin.php:2095
+msgid "Content"
+msgstr ""
+
+#: demo-import/class-merlin.php:752
+msgid "Ready"
+msgstr ""
+
+#: demo-import/class-merlin.php:857 demo-import/class-merlin.php:965
+msgid "The welcome step has been displayed"
+msgstr ""
+
+#: demo-import/class-merlin.php:870
+msgid "System Health Check"
+msgstr ""
+
+#: demo-import/class-merlin.php:1059
+msgid "The license activation step has been displayed"
+msgstr ""
+
+#: demo-import/class-merlin.php:1129
+msgid "The child theme installation step has been displayed"
+msgstr ""
+
+#: demo-import/class-merlin.php:1217
+#: includes/library/class-tgm-plugin-activation.php:2360
+msgid "Required"
+msgstr ""
+
+#: demo-import/class-merlin.php:1218
+msgid "req"
+msgstr ""
+
+#: demo-import/class-merlin.php:1258
+msgid "The plugin installation step has been displayed"
+msgstr ""
+
+#: demo-import/class-merlin.php:1342
+msgid "The content import step has been displayed"
+msgstr ""
+
+#: demo-import/class-merlin.php:1422
+msgid "The final step has been displayed"
+msgstr ""
+
+#: demo-import/class-merlin.php:1499
+msgid "The existing child theme was activated"
+msgstr ""
+
+#: demo-import/class-merlin.php:1516
+msgid "The newly generated child theme was activated"
+msgstr ""
+
+#: demo-import/class-merlin.php:1537
+msgid ""
+"Yikes! The theme activation failed. Please try again or contact support."
+msgstr ""
+
+#: demo-import/class-merlin.php:1546
+msgid "Please add your license key before attempting to activate one."
+msgstr ""
+
+#: demo-import/class-merlin.php:1559
+msgid "The license activation was performed with the following results"
+msgstr ""
+
+#: demo-import/class-merlin.php:1605 demo-import/class-merlin.php:1646
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: demo-import/class-merlin.php:1618
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: demo-import/class-merlin.php:1624
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: demo-import/class-merlin.php:1628
+msgid ""
+"This appears to be an invalid license key. Please try again or contact "
+"support."
+msgstr ""
+
+#: demo-import/class-merlin.php:1633
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: demo-import/class-merlin.php:1638
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: demo-import/class-merlin.php:1642
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: demo-import/class-merlin.php:1736
+msgid "The child theme functions.php content was generated"
+msgstr ""
+
+#: demo-import/class-merlin.php:1767
+msgid "The child theme style.css content was generated"
+msgstr ""
+
+#: demo-import/class-merlin.php:1801
+msgid ""
+"The child theme screenshot was copied to the child theme, with the "
+"following result"
+msgstr ""
+
+#: demo-import/class-merlin.php:1803
+msgid "The child theme screenshot was not generated, because of these results"
+msgstr ""
+
+#: demo-import/class-merlin.php:1832
+msgid "Activating"
+msgstr ""
+
+#: demo-import/class-merlin.php:1848
+msgid "Updating"
+msgstr ""
+
+#: demo-import/class-merlin.php:1864 demo-import/class-merlin.php:1880
+#: demo-import/class-merlin.php:2098 demo-import/class-merlin.php:2111
+#: demo-import/class-merlin.php:2124 demo-import/class-merlin.php:2137
+#: demo-import/class-merlin.php:2150 demo-import/class-merlin.php:2163
+#: demo-import/class-merlin.php:2207
+msgid "Installing"
+msgstr ""
+
+#: demo-import/class-merlin.php:1872
+msgid "A plugin with the following data will be processed"
+msgstr ""
+
+#: demo-import/class-merlin.php:1884
+msgid "A plugin with the following data was processed"
+msgstr ""
+
+#: demo-import/class-merlin.php:1893 demo-import/class-merlin.php:2099
+#: demo-import/class-merlin.php:2112 demo-import/class-merlin.php:2125
+#: demo-import/class-merlin.php:2138 demo-import/class-merlin.php:2151
+#: demo-import/class-merlin.php:2164
+msgid "Success"
+msgstr ""
+
+#: demo-import/class-merlin.php:1916
+msgid ""
+"The content importer AJAX call failed to start, because of incorrect data"
+msgstr ""
+
+#: demo-import/class-merlin.php:1921
+msgid "Invalid content!"
+msgstr ""
+
+#: demo-import/class-merlin.php:1932
+msgid "The content import AJAX call will be executed with this import data"
+msgstr ""
+
+#: demo-import/class-merlin.php:1974
+msgid "The content import AJAX call failed with this passed data"
+msgstr ""
+
+#: demo-import/class-merlin.php:1985
+msgid "Error"
+msgstr ""
+
+#: demo-import/class-merlin.php:1999
+msgid ""
+"The content importer AJAX call for retrieving total content import items "
+"failed to start, because of incorrect data."
+msgstr ""
+
+#: demo-import/class-merlin.php:2004
+msgid "Invalid data!"
+msgstr ""
+
+#: demo-import/class-merlin.php:2096
+msgid "Demo content data."
+msgstr ""
+
+#: demo-import/class-merlin.php:2097 demo-import/class-merlin.php:2110
+#: demo-import/class-merlin.php:2123 demo-import/class-merlin.php:2136
+#: demo-import/class-merlin.php:2149 demo-import/class-merlin.php:2162
+msgid "Pending"
+msgstr ""
+
+#: demo-import/class-merlin.php:2108
+msgid "Widgets"
+msgstr ""
+
+#: demo-import/class-merlin.php:2109
+msgid "Sample widgets data."
+msgstr ""
+
+#: demo-import/class-merlin.php:2121
+msgid "Revolution Slider"
+msgstr ""
+
+#: demo-import/class-merlin.php:2122
+msgid "Sample Revolution sliders data."
+msgstr ""
+
+#: demo-import/class-merlin.php:2134
+msgid "Options"
+msgstr ""
+
+#: demo-import/class-merlin.php:2135
+msgid "Sample theme options data."
+msgstr ""
+
+#: demo-import/class-merlin.php:2147
+msgid "Redux Options"
+msgstr ""
+
+#: demo-import/class-merlin.php:2148
+msgid "Redux framework options."
+msgstr ""
+
+#: demo-import/class-merlin.php:2160
+msgid "After import setup"
+msgstr ""
+
+#: demo-import/class-merlin.php:2161
+msgid "After import setup."
+msgstr ""
+
+#: demo-import/class-merlin.php:2191
+msgid "The revolution slider import was executed"
+msgstr ""
+
+#: demo-import/class-merlin.php:2228
+msgid "The home page was set"
+msgstr ""
+
+#: demo-import/class-merlin.php:2238
+msgid "The blog page was set"
+msgstr ""
+
+#: demo-import/class-merlin.php:2253
+msgid "The Hello world post status was set to draft"
+msgstr ""
+
+#: demo-import/class-merlin.php:2277
+msgid ""
+"This predefined demo import does not have the name parameter: "
+"import_file_name"
+msgstr ""
+
+#: demo-import/importer/WXRImporter.php:949
+#: demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:949
+#, php-format
+msgid "Failed to import term: %s - %s"
+msgstr ""
+
+#: demo-import/importer/WXRImporter.php:2322
+#: demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2322
+msgid "Starting remapping of featured images"
+msgstr ""
+
+#: demo-import/importer/WXRImporter.php:2331
+#: demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2331
+#, php-format
+msgid "Remapping featured image ID %d to new ID %d for post ID %d"
+msgstr ""
+
+#: demo-import/includes/class-merlin-customizer-importer.php:57
+#, php-format
+msgid "Error: The customizer import file is missing! File path: %s"
+msgstr ""
+
+#: demo-import/includes/class-merlin-customizer-importer.php:70
+msgid ""
+"Error: The customizer import file does not have any content in it. Please "
+"make sure to use the correct customizer import file."
+msgstr ""
+
+#: demo-import/includes/class-merlin-customizer-importer.php:80
+msgid ""
+"Error: The customizer import file is not in a correct format. Please make "
+"sure to use the correct customizer import file."
+msgstr ""
+
+#: demo-import/includes/class-merlin-customizer-importer.php:86
+msgid ""
+"Error: The customizer import file is not suitable for current theme. You "
+"can only import customizer settings for the same theme or a child theme."
+msgstr ""
+
+#: demo-import/includes/class-merlin-widget-importer.php:328
+msgid "No results for widget import!"
+msgstr ""
+
+#: demo-import/merlin-config.php:63
+msgid "TemplatePath Import"
+msgstr ""
+
+#: demo-import/merlin-config.php:66
+#, php-format
+msgid "%1$s%2$s Themes &lsaquo; Theme Setup: %3$s%4$s"
+msgstr ""
+
+#: demo-import/merlin-config.php:67
+msgid "Return to the dashboard"
+msgstr ""
+
+#: demo-import/merlin-config.php:68
+msgid "Disable this wizard"
+msgstr ""
+
+#: demo-import/merlin-config.php:70
+msgid "Skip"
+msgstr ""
+
+#: demo-import/merlin-config.php:71
+msgid "Next"
+msgstr ""
+
+#: demo-import/merlin-config.php:72
+msgid "Start"
+msgstr ""
+
+#: demo-import/merlin-config.php:73
+msgid "Cancel"
+msgstr ""
+
+#: demo-import/merlin-config.php:74 demo-import/merlin-config.php:75
+#: demo-import/merlin-config.php:76
+#: includes/library/class-tgm-plugin-activation.php:2804
+msgid "Install"
+msgstr ""
+
+#: demo-import/merlin-config.php:77
+msgid "Import"
+msgstr ""
+
+#: demo-import/merlin-config.php:78
+#: includes/library/class-tgm-plugin-activation.php:2813
+msgid "Activate"
+msgstr ""
+
+#: demo-import/merlin-config.php:79
+msgid "Later"
+msgstr ""
+
+#: demo-import/merlin-config.php:82
+#, php-format
+msgid "Activate %s"
+msgstr ""
+
+#: demo-import/merlin-config.php:84
+#, php-format
+msgid "%s is Activated"
+msgstr ""
+
+#: demo-import/merlin-config.php:86
+msgid "Enter your license key to enable remote updates and theme support."
+msgstr ""
+
+#: demo-import/merlin-config.php:87
+msgid "License key"
+msgstr ""
+
+#: demo-import/merlin-config.php:88
+msgid "The theme is already registered, so you can go to the next step!"
+msgstr ""
+
+#: demo-import/merlin-config.php:89
+msgid "Your theme is activated! Remote updates and theme support are enabled."
+msgstr ""
+
+#: demo-import/merlin-config.php:90
+msgid "Need help?"
+msgstr ""
+
+#: demo-import/merlin-config.php:93
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: demo-import/merlin-config.php:94
+msgid "Hi. Welcome back"
+msgstr ""
+
+#: demo-import/merlin-config.php:95
+msgid ""
+"This wizard will set up your theme, install plugins, and import content. It "
+"is optional & should take only a few minutes."
+msgstr ""
+
+#: demo-import/merlin-config.php:96
+msgid ""
+"You may have already run this theme setup wizard. If you would like to "
+"proceed anyway, click on the \"Start\" button below."
+msgstr ""
+
+#: demo-import/merlin-config.php:98
+msgid "Install Child Theme"
+msgstr ""
+
+#: demo-import/merlin-config.php:99
+msgid "You're good to go!"
+msgstr ""
+
+#: demo-import/merlin-config.php:100
+msgid ""
+"Let's build & activate a child theme so you may easily make theme changes."
+msgstr ""
+
+#: demo-import/merlin-config.php:101
+msgid ""
+"Your child theme has already been installed and is now activated, if it "
+"wasn't already."
+msgstr ""
+
+#: demo-import/merlin-config.php:102
+msgid "Learn about child themes"
+msgstr ""
+
+#: demo-import/merlin-config.php:103
+msgid ""
+"Awesome. Your child theme has already been installed and is now activated."
+msgstr ""
+
+#: demo-import/merlin-config.php:104
+msgid "Awesome. Your child theme has been created and is now activated."
+msgstr ""
+
+#: demo-import/merlin-config.php:106
+#: includes/library/class-tgm-plugin-activation.php:340
+msgid "Install Plugins"
+msgstr ""
+
+#: demo-import/merlin-config.php:107
+msgid "You're up to speed!"
+msgstr ""
+
+#: demo-import/merlin-config.php:108
+msgid ""
+"Let's install some essential WordPress plugins to get your site up to speed."
+msgstr ""
+
+#: demo-import/merlin-config.php:109
+msgid ""
+"The required WordPress plugins are all installed and up to date. Press "
+"\"Next\" to continue the setup wizard."
+msgstr ""
+
+#: demo-import/merlin-config.php:110 demo-import/merlin-config.php:114
+msgid "Advanced"
+msgstr ""
+
+#: demo-import/merlin-config.php:112
+msgid "Import Content"
+msgstr ""
+
+#: demo-import/merlin-config.php:113
+msgid ""
+"Let's import content to your website, to help you get familiar with the "
+"theme."
+msgstr ""
+
+#: demo-import/merlin-config.php:116
+msgid "All done. Have fun!"
+msgstr ""
+
+#: demo-import/merlin-config.php:119
+#, php-format
+msgid "Your theme has been all set up. Enjoy your new theme by %s."
+msgstr ""
+
+#: demo-import/merlin-config.php:120
+msgid "Extras"
+msgstr ""
+
+#: demo-import/merlin-config.php:121
+msgid "View your website"
+msgstr ""
+
+#: demo-import/merlin-config.php:122
+msgid "5 Star For Project Rinbuild"
+msgstr ""
+
+#: demo-import/merlin-config.php:123
+msgid "Get Rinbuild Theme Support"
+msgstr ""
+
+#: demo-import/merlin-filters.php:89
+msgid "Main Demo"
+msgstr ""
+
+#: demo-import/merlin-filters.php:106
+msgid ""
+"After you import this demo, you will have to setup the slider separately."
+msgstr ""
+
+#: functions.php:50
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:96
+msgid "Default Sidebar"
+msgstr ""
+
+#: functions.php:98 functions.php:116
+msgid "Widgets in this area will be shown on the right-hand side."
+msgstr ""
+
+#: functions.php:105
+msgid "Footer Widget"
+msgstr ""
+
+#: functions.php:107
+msgid "Widgets in this area will be shown in Footer Area."
+msgstr ""
+
+#: functions.php:114
+msgid "Blog Listing"
+msgstr ""
+
+#: includes/classes/ajax.php:59 includes/classes/ajax.php:111
+msgid "Load More"
+msgstr ""
+
+#: includes/classes/ajax.php:66 includes/classes/ajax.php:70
+#: includes/classes/ajax.php:117
+msgid "No More Post"
+msgstr ""
+
+#: includes/classes/common.php:149
+msgid "Standard Post"
+msgstr ""
+
+#: includes/classes/options.php:47 includes/classes/options.php:48
+msgid "RINBUILD Options"
+msgstr ""
+
+#: includes/classes/options.php:239
+msgid "Theme Information 1"
+msgstr ""
+
+#: includes/classes/options.php:240 includes/classes/options.php:245
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: includes/classes/options.php:244
+msgid "Theme Information 2"
+msgstr ""
+
+#: includes/classes/options.php:251
+msgid "This is the sidebar content, HTML is allowed."
+msgstr ""
+
+#: includes/classes/visual-composer.php:228
+msgid "Yes"
+msgstr ""
+
+#: includes/functions/functions.php:55
+msgid "No class found"
+msgstr ""
+
+#: includes/functions/functions.php:132
+msgid "RINBUILD Plugin"
+msgstr ""
+
+#: includes/functions/functions.php:141
+msgid "Contact Form 7"
+msgstr ""
+
+#: includes/functions/functions.php:146
+#: includes/resource/options/404_setting.php:15
+#: includes/resource/options/archive_setting.php:15
+#: includes/resource/options/author_setting.php:15
+#: includes/resource/options/blog_setting.php:15
+#: includes/resource/options/category_setting.php:15
+#: includes/resource/options/footer_setting.php:11
+#: includes/resource/options/headers_setting.php:1425
+#: includes/resource/options/search_setting.php:15
+#: includes/resource/options/single_post_setting.php:15
+#: includes/resource/options/tag_setting.php:15
+msgid "Elementor"
+msgstr ""
+
+#: includes/functions/functions.php:175
+msgid "RINBUILD"
+msgstr ""
+
+#: includes/functions/functions.php:262
+msgid "Home"
+msgstr ""
+
+#: includes/functions/functions.php:302 includes/functions/functions.php:359
+#: includes/functions/functions.php:361
+msgid "Archive for "
+msgstr ""
+
+#: includes/functions/functions.php:314 includes/functions/functions.php:363
+msgid "Search Results for "
+msgstr ""
+
+#: includes/functions/functions.php:317
+msgid "404 - Not Found"
+msgstr ""
+
+#: includes/functions/functions.php:329
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: includes/functions/functions.php:355
+msgid "Home Page "
+msgstr ""
+
+#: includes/functions/functions.php:365
+msgid "404 Page Not Found"
+msgstr ""
+
+#: includes/functions/functions.php:460
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: includes/functions/functions.php:475
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: includes/functions/functions.php:481
+msgid "Logged in as"
+msgstr ""
+
+#: includes/functions/functions.php:481
+msgid "Log out?"
+msgstr ""
+
+#: includes/functions/functions.php:484
+#, php-format
+msgid "Logged in as %s. Edit your profile."
+msgstr ""
+
+#: includes/functions/functions.php:496
+msgid "Leave A Comment"
+msgstr ""
+
+#: includes/functions/functions.php:497
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: includes/functions/functions.php:502
+msgid "Cancel reply"
+msgstr ""
+
+#: includes/functions/functions.php:503
+msgid "Leave a Comment"
+msgstr ""
+
+#: includes/functions/functions.php:786
+msgid "Flaticons"
+msgstr ""
+
+#: includes/functions/functions.php:798
+msgid "Icomoon"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:339
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:344
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:345
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:398
+#: includes/library/class-tgm-plugin-activation.php:908
+#: includes/library/class-tgm-plugin-activation.php:2620
+#: includes/library/class-tgm-plugin-activation.php:3669
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:399
+#: includes/library/class-tgm-plugin-activation.php:3249
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:400
+#: includes/library/class-tgm-plugin-activation.php:3042
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:402
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:404
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:406
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:407
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:408
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:409
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:602
+msgid "Update Required"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:1015
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:1015
+#: includes/library/class-tgm-plugin-activation.php:1018
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:1018
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:2363
+msgid "Recommended"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:2379
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:2382
+msgid "External Source"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:2385
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:2402
+msgid "Not Installed"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:2406
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:2408
+msgid "Active"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:2414
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:2417
+msgid "Requires Update"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:2420
+msgid "Update recommended"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:2429
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:2479
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:2483
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:2487
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:2569
+msgid "unknown"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:2577
+msgid "Installed version:"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:2585
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:2597
+msgid "Available version:"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:2620
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:2634
+msgid "Plugin"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:2635
+msgid "Source"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:2636
+msgid "Type"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:2640
+msgid "Version"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:2641
+msgid "Status"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:2690
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:2695
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:2771
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:2810
+msgid "Update"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:2847
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:2849
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:2890
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:2892
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:2998
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:3024
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:3248
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:3593
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:3597
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:3599
+#: includes/library/class-tgm-plugin-activation.php:3607
+#, php-format
+msgid "%1$s done."
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:3600
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:3605
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:3608
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/library/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/resource/options/404_setting.php:4
+msgid "404 Page Settings"
+msgstr ""
+
+#: includes/resource/options/404_setting.php:12
+msgid "404 Source Type"
+msgstr ""
+
+#: includes/resource/options/404_setting.php:14
+#: includes/resource/options/archive_setting.php:14
+#: includes/resource/options/author_setting.php:14
+#: includes/resource/options/blog_setting.php:14
+#: includes/resource/options/category_setting.php:14
+#: includes/resource/options/footer_setting.php:10
+#: includes/resource/options/headers_setting.php:1424
+#: includes/resource/options/search_setting.php:14
+#: includes/resource/options/single_post_setting.php:14
+#: includes/resource/options/tag_setting.php:14
+msgid "Default"
+msgstr ""
+
+#: includes/resource/options/404_setting.php:32
+msgid "404 Default"
+msgstr ""
+
+#: includes/resource/options/404_setting.php:39
+#: includes/resource/options/archive_setting.php:41
+#: includes/resource/options/author_setting.php:41
+#: includes/resource/options/category_setting.php:41
+#: includes/resource/options/search_setting.php:41
+#: includes/resource/options/tag_setting.php:41
+msgid "Show Banner"
+msgstr ""
+
+#: includes/resource/options/404_setting.php:40
+#: includes/resource/options/archive_setting.php:42
+#: includes/resource/options/author_setting.php:42
+#: includes/resource/options/category_setting.php:42
+#: includes/resource/options/search_setting.php:42
+#: includes/resource/options/tag_setting.php:42
+msgid "Enable to show banner on blog"
+msgstr ""
+
+#: includes/resource/options/404_setting.php:46
+#: includes/resource/options/archive_setting.php:48
+#: includes/resource/options/author_setting.php:48
+#: includes/resource/options/category_setting.php:48
+#: includes/resource/options/search_setting.php:48
+#: includes/resource/options/tag_setting.php:48
+msgid "Banner Section Title"
+msgstr ""
+
+#: includes/resource/options/404_setting.php:47
+#: includes/resource/options/archive_setting.php:49
+#: includes/resource/options/author_setting.php:49
+#: includes/resource/options/category_setting.php:49
+#: includes/resource/options/search_setting.php:49
+#: includes/resource/options/tag_setting.php:49
+msgid "Enter the title to show in banner section"
+msgstr ""
+
+#: includes/resource/options/404_setting.php:53
+#: includes/resource/options/archive_setting.php:55
+#: includes/resource/options/author_setting.php:55
+#: includes/resource/options/category_setting.php:55
+#: includes/resource/options/search_setting.php:55
+#: includes/resource/options/tag_setting.php:55
+msgid "Use Yoast SEO plugin for breadcrumb."
+msgstr ""
+
+#: includes/resource/options/404_setting.php:60
+msgid "Banner Image"
+msgstr ""
+
+#: includes/resource/options/404_setting.php:61
+#: includes/resource/options/404_setting.php:114
+#: includes/resource/options/archive_setting.php:63
+#: includes/resource/options/author_setting.php:63
+#: includes/resource/options/category_setting.php:63
+#: includes/resource/options/search_setting.php:63
+#: includes/resource/options/search_setting.php:169
+#: includes/resource/options/tag_setting.php:63
+msgid "Insert background image for banner"
+msgstr ""
+
+#: includes/resource/options/404_setting.php:69
+msgid "Enter 404"
+msgstr ""
+
+#: includes/resource/options/404_setting.php:75
+msgid "404 Title"
+msgstr ""
+
+#: includes/resource/options/404_setting.php:76
+msgid "Enter 404 section title that you want to show"
+msgstr ""
+
+#: includes/resource/options/404_setting.php:82
+msgid "404 Page Description"
+msgstr ""
+
+#: includes/resource/options/404_setting.php:83
+msgid "Enter 404 page description that you want to show."
+msgstr ""
+
+#: includes/resource/options/404_setting.php:96
+#: includes/resource/options/search_setting.php:151
+msgid "Show Button"
+msgstr ""
+
+#: includes/resource/options/404_setting.php:97
+#: includes/resource/options/search_setting.php:152
+msgid "Enable to show back to home button."
+msgstr ""
+
+#: includes/resource/options/404_setting.php:103
+#: includes/resource/options/search_setting.php:158
+msgid "Button Label"
+msgstr ""
+
+#: includes/resource/options/404_setting.php:104
+#: includes/resource/options/search_setting.php:159
+msgid "Enter back to home button label that you want to show."
+msgstr ""
+
+#: includes/resource/options/404_setting.php:105
+#: includes/resource/options/search_setting.php:160
+msgid "Back To Home Page"
+msgstr ""
+
+#: includes/resource/options/404_setting.php:113
+msgid "Error Background"
+msgstr ""
+
+#: includes/resource/options/404_setting.php:123
+msgid "404 Image"
+msgstr ""
+
+#: includes/resource/options/404_setting.php:124
+msgid "Insert 404 Image image for banner"
+msgstr ""
+
+#: includes/resource/options/archive_setting.php:4
+msgid "Archive Page Settings"
+msgstr ""
+
+#: includes/resource/options/archive_setting.php:12
+msgid "Archive Source Type"
+msgstr ""
+
+#: includes/resource/options/archive_setting.php:34
+msgid "Archive Default"
+msgstr ""
+
+#: includes/resource/options/archive_setting.php:62
+#: includes/resource/options/author_setting.php:62
+#: includes/resource/options/category_setting.php:62
+#: includes/resource/options/search_setting.php:62
+#: includes/resource/options/tag_setting.php:62
+msgid "Background Image"
+msgstr ""
+
+#: includes/resource/options/archive_setting.php:73
+#: includes/resource/options/author_setting.php:73
+#: includes/resource/options/category_setting.php:73
+#: includes/resource/options/search_setting.php:73
+#: includes/resource/options/tag_setting.php:73
+msgid "Layout"
+msgstr ""
+
+#: includes/resource/options/archive_setting.php:74
+#: includes/resource/options/author_setting.php:74
+#: includes/resource/options/category_setting.php:74
+#: includes/resource/options/search_setting.php:74
+#: includes/resource/options/tag_setting.php:74
+msgid "Select main content and sidebar alignment."
+msgstr ""
+
+#: includes/resource/options/archive_setting.php:78
+#: includes/resource/options/author_setting.php:78
+#: includes/resource/options/category_setting.php:78
+#: includes/resource/options/search_setting.php:78
+#: includes/resource/options/tag_setting.php:78
+msgid "2 Column Left"
+msgstr ""
+
+#: includes/resource/options/archive_setting.php:82
+#: includes/resource/options/author_setting.php:82
+#: includes/resource/options/category_setting.php:82
+#: includes/resource/options/search_setting.php:82
+#: includes/resource/options/tag_setting.php:82
+msgid "1 Column"
+msgstr ""
+
+#: includes/resource/options/archive_setting.php:86
+#: includes/resource/options/author_setting.php:86
+#: includes/resource/options/category_setting.php:86
+#: includes/resource/options/search_setting.php:86
+#: includes/resource/options/tag_setting.php:86
+msgid "2 Column Right"
+msgstr ""
+
+#: includes/resource/options/archive_setting.php:97
+#: includes/resource/options/author_setting.php:97
+#: includes/resource/options/category_setting.php:97
+#: includes/resource/options/search_setting.php:97
+#: includes/resource/options/tag_setting.php:97
+msgid "Sidebar"
+msgstr ""
+
+#: includes/resource/options/archive_setting.php:98
+#: includes/resource/options/author_setting.php:98
+#: includes/resource/options/category_setting.php:98
+#: includes/resource/options/search_setting.php:98
+#: includes/resource/options/tag_setting.php:98
+msgid "Select sidebar to show at blog listing page"
+msgstr ""
+
+#: includes/resource/options/archive_setting.php:107
+#: includes/resource/options/author_setting.php:107
+#: includes/resource/options/blog_setting.php:111
+#: includes/resource/options/category_setting.php:107
+#: includes/resource/options/search_setting.php:107
+#: includes/resource/options/tag_setting.php:107
+msgid "Show Post Comments"
+msgstr ""
+
+#: includes/resource/options/archive_setting.php:108
+#: includes/resource/options/author_setting.php:108
+#: includes/resource/options/blog_setting.php:112
+#: includes/resource/options/blog_setting.php:142
+#: includes/resource/options/category_setting.php:108
+#: includes/resource/options/search_setting.php:108
+#: includes/resource/options/tag_setting.php:108
+msgid "Enable to show post comments on posts listing"
+msgstr ""
+
+#: includes/resource/options/archive_setting.php:115
+#: includes/resource/options/author_setting.php:115
+#: includes/resource/options/blog_setting.php:119
+#: includes/resource/options/category_setting.php:115
+#: includes/resource/options/search_setting.php:115
+#: includes/resource/options/single_post_setting.php:37
+#: includes/resource/options/tag_setting.php:115
+msgid "Show Author"
+msgstr ""
+
+#: includes/resource/options/archive_setting.php:116
+#: includes/resource/options/author_setting.php:116
+#: includes/resource/options/blog_setting.php:120
+#: includes/resource/options/category_setting.php:116
+#: includes/resource/options/search_setting.php:116
+#: includes/resource/options/tag_setting.php:116
+msgid "Enable to show author on posts listing"
+msgstr ""
+
+#: includes/resource/options/archive_setting.php:122
+#: includes/resource/options/author_setting.php:122
+#: includes/resource/options/blog_setting.php:126
+#: includes/resource/options/category_setting.php:122
+#: includes/resource/options/search_setting.php:122
+#: includes/resource/options/tag_setting.php:122
+msgid "Show Post Date"
+msgstr ""
+
+#: includes/resource/options/archive_setting.php:123
+#: includes/resource/options/author_setting.php:123
+#: includes/resource/options/blog_setting.php:127
+#: includes/resource/options/blog_setting.php:134
+#: includes/resource/options/blog_setting.php:150
+#: includes/resource/options/category_setting.php:123
+#: includes/resource/options/search_setting.php:123
+#: includes/resource/options/tag_setting.php:123
+msgid "Enable to show post data on posts listing"
+msgstr ""
+
+#: includes/resource/options/author_setting.php:4
+msgid "Author Page Settings"
+msgstr ""
+
+#: includes/resource/options/author_setting.php:12
+msgid "Author Source Type"
+msgstr ""
+
+#: includes/resource/options/author_setting.php:34
+msgid "Author Default"
+msgstr ""
+
+#: includes/resource/options/blog_setting.php:4
+msgid "Blog Page Settings"
+msgstr ""
+
+#: includes/resource/options/blog_setting.php:12
+msgid "Blog Source Type"
+msgstr ""
+
+#: includes/resource/options/blog_setting.php:34
+msgid "Blog Default"
+msgstr ""
+
+#: includes/resource/options/blog_setting.php:133
+msgid "Show Post Tag"
+msgstr ""
+
+#: includes/resource/options/blog_setting.php:141
+msgid "Show Post Category"
+msgstr ""
+
+#: includes/resource/options/blog_setting.php:149
+msgid "Show Blog Read More"
+msgstr ""
+
+#: includes/resource/options/blog_setting.php:156
+msgid "Read More Text"
+msgstr ""
+
+#: includes/resource/options/blog_setting.php:157
+msgid "Enter Read More Text to Show."
+msgstr ""
+
+#: includes/resource/options/blog_setting.php:158 templates/blog/blog.php:39
+msgid "Read More"
+msgstr ""
+
+#: includes/resource/options/body_font_setting.php:5
+msgid "Body Font Settings"
+msgstr ""
+
+#: includes/resource/options/body_font_setting.php:13
+msgid "Use Body,Paragraph Custom Font"
+msgstr ""
+
+#: includes/resource/options/body_font_setting.php:14
+msgid "Enable to customize the theme body,p tag font"
+msgstr ""
+
+#: includes/resource/options/body_font_setting.php:19
+msgid "Body Font Typography"
+msgstr ""
+
+#: includes/resource/options/body_font_setting.php:24
+msgid "Apply options to customize the body,paragraph font for the theme"
+msgstr ""
+
+#: includes/resource/options/category_setting.php:4
+msgid "Category Page Settings"
+msgstr ""
+
+#: includes/resource/options/category_setting.php:12
+msgid "Category Source Type"
+msgstr ""
+
+#: includes/resource/options/category_setting.php:34
+msgid "Category Default"
+msgstr ""
+
+#: includes/resource/options/custom_fonts_setting.php:6
+msgid "Custom Font Settings"
+msgstr ""
+
+#: includes/resource/options/custom_fonts_setting.php:21
+msgid ""
+"Please upload your desire font file in *.ttf,  *.otf, *.eot, *.woff format"
+msgstr ""
+
+#: includes/resource/options/footer_setting.php:8
+msgid "Footer Source Type"
+msgstr ""
+
+#: includes/resource/options/footer_setting.php:30
+msgid "Footer Default"
+msgstr ""
+
+#: includes/resource/options/footer_setting.php:39
+msgid "Footer Background"
+msgstr ""
+
+#: includes/resource/options/footer_setting.php:45
+#: includes/resource/options/header2_setting.php:74
+#: includes/resource/options/header3_setting.php:74
+#: includes/resource/options/header_setting.php:74
+#: includes/resource/options/headers_setting.php:228
+#: includes/resource/options/headers_setting.php:490
+#: includes/resource/options/headers_setting.php:750
+#: includes/resource/options/headers_setting.php:1010
+#: includes/resource/options/headers_setting.php:1270
+msgid "Social Profiles"
+msgstr ""
+
+#: includes/resource/options/footer_setting.php:51
+msgid "Show Subscribe Area"
+msgstr ""
+
+#: includes/resource/options/footer_setting.php:52
+msgid "Enable to Show Subscribe"
+msgstr ""
+
+#: includes/resource/options/footer_setting.php:58
+msgid "Show Footer Area"
+msgstr ""
+
+#: includes/resource/options/footer_setting.php:59
+msgid "Enable to Footer Area"
+msgstr ""
+
+#: includes/resource/options/footer_setting.php:65
+msgid "Show Shape"
+msgstr ""
+
+#: includes/resource/options/footer_setting.php:66
+msgid "Enable to Shape"
+msgstr ""
+
+#: includes/resource/options/footer_setting.php:73
+msgid "Show Footer Copyright Area"
+msgstr ""
+
+#: includes/resource/options/footer_setting.php:74
+msgid "Enable to Copyright Area"
+msgstr ""
+
+#: includes/resource/options/footer_setting.php:81
+msgid "Enter Subscribe ID"
+msgstr ""
+
+#: includes/resource/options/footer_setting.php:87
+msgid "Enter Footer Subtitle"
+msgstr ""
+
+#: includes/resource/options/footer_setting.php:93
+msgid "Enter Footer Title"
+msgstr ""
+
+#: includes/resource/options/footer_setting.php:99
+msgid "Enter Footer Text"
+msgstr ""
+
+#: includes/resource/options/footer_setting.php:105
+msgid "Enter Footer Button"
+msgstr ""
+
+#: includes/resource/options/footer_setting.php:111
+msgid "Enter Subscribe Button"
+msgstr ""
+
+#: includes/resource/options/footer_setting.php:118
+msgid "Enter the Copyright Text"
+msgstr ""
+
+#: includes/resource/options/footer_setting.php:125
+msgid "Footer Javascript"
+msgstr ""
+
+#: includes/resource/options/footer_setting.php:126
+msgid "Enter javascript code to add in page footer section"
+msgstr ""
+
+#: includes/resource/options/footer_setting.php:138
+msgid "Footer Setting"
+msgstr ""
+
+#: includes/resource/options/general_setting.php:4
+#, php-format
+msgid "Style %s"
+msgstr ""
+
+#: includes/resource/options/general_setting.php:8
+msgid "General Setting"
+msgstr ""
+
+#: includes/resource/options/general_setting.php:17
+msgid "Color Scheme"
+msgstr ""
+
+#: includes/resource/options/general_setting.php:24
+msgid "Enable Preloader"
+msgstr ""
+
+#: includes/resource/options/general_setting.php:30
+msgid "Preloader Style"
+msgstr ""
+
+#: includes/resource/options/general_setting.php:38
+msgid "Hide Scroll to Top"
+msgstr ""
+
+#: includes/resource/options/header2_setting.php:3
+msgid "Header 2 Setting"
+msgstr ""
+
+#: includes/resource/options/header2_setting.php:11
+#: includes/resource/options/header3_setting.php:11
+#: includes/resource/options/header_setting.php:11
+msgid "Logo Style"
+msgstr ""
+
+#: includes/resource/options/header2_setting.php:12
+#: includes/resource/options/header3_setting.php:12
+#: includes/resource/options/header_setting.php:12
+msgid "Select anyone logo style to show in header"
+msgstr ""
+
+#: includes/resource/options/header2_setting.php:14
+#: includes/resource/options/header3_setting.php:14
+#: includes/resource/options/header_setting.php:14
+msgid "Image Logo"
+msgstr ""
+
+#: includes/resource/options/header2_setting.php:15
+#: includes/resource/options/header3_setting.php:15
+#: includes/resource/options/header_setting.php:15
+msgid "Text Logo"
+msgstr ""
+
+#: includes/resource/options/header2_setting.php:23
+#: includes/resource/options/header3_setting.php:23
+#: includes/resource/options/header_setting.php:23
+msgid "Logo"
+msgstr ""
+
+#: includes/resource/options/header2_setting.php:24
+#: includes/resource/options/header3_setting.php:24
+#: includes/resource/options/header_setting.php:24
+msgid "Insert site logo image with adjustable size for the logo section"
+msgstr ""
+
+#: includes/resource/options/header2_setting.php:31
+#: includes/resource/options/header3_setting.php:31
+#: includes/resource/options/header_setting.php:31
+msgid "Logo Dimentions"
+msgstr ""
+
+#: includes/resource/options/header2_setting.php:32
+#: includes/resource/options/header3_setting.php:32
+#: includes/resource/options/header_setting.php:32
+#: includes/resource/options/logo_setting.php:38
+#: includes/resource/options/logo_setting.php:63
+#: includes/resource/options/logo_setting.php:88
+#: includes/resource/options/logo_setting.php:114
+#: includes/resource/options/logo_setting.php:141
+msgid "Select Logo Dimentions"
+msgstr ""
+
+#: includes/resource/options/header2_setting.php:42
+#: includes/resource/options/header3_setting.php:42
+#: includes/resource/options/header_setting.php:42
+msgid "Logo Text"
+msgstr ""
+
+#: includes/resource/options/header2_setting.php:43
+#: includes/resource/options/header3_setting.php:43
+#: includes/resource/options/header_setting.php:43
+msgid "Enter Logo Text"
+msgstr ""
+
+#: includes/resource/options/header2_setting.php:51
+#: includes/resource/options/header3_setting.php:51
+#: includes/resource/options/header_setting.php:51
+msgid "Typography"
+msgstr ""
+
+#: includes/resource/options/header2_setting.php:58
+#: includes/resource/options/header3_setting.php:58
+#: includes/resource/options/header_setting.php:58
+msgid "Select Styles for text logo"
+msgstr ""
+
+#: includes/resource/options/header2_setting.php:75
+#: includes/resource/options/header3_setting.php:75
+#: includes/resource/options/header_setting.php:75
+msgid "Click an icon to activate social profile icons in header."
+msgstr ""
+
+#: includes/resource/options/header2_setting.php:80
+msgid "Projects Link"
+msgstr ""
+
+#: includes/resource/options/header3_setting.php:3
+msgid "Header 3 Setting"
+msgstr ""
+
+#: includes/resource/options/header_setting.php:3
+msgid "Header 1 Setting"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:7
+#: includes/resource/options/headers_setting.php:269
+#: includes/resource/options/headers_setting.php:529
+#: includes/resource/options/headers_setting.php:789
+#: includes/resource/options/headers_setting.php:1049
+msgid "Top Header Show"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:8
+#: includes/resource/options/headers_setting.php:270
+#: includes/resource/options/headers_setting.php:530
+#: includes/resource/options/headers_setting.php:790
+#: includes/resource/options/headers_setting.php:1050
+msgid "Enable Top Header Show"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:16
+#: includes/resource/options/headers_setting.php:538
+#: includes/resource/options/headers_setting.php:798
+#: includes/resource/options/headers_setting.php:1058
+msgid "Welcome 1"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:17
+#: includes/resource/options/headers_setting.php:25
+#: includes/resource/options/headers_setting.php:287
+#: includes/resource/options/headers_setting.php:539
+#: includes/resource/options/headers_setting.php:547
+#: includes/resource/options/headers_setting.php:799
+#: includes/resource/options/headers_setting.php:807
+#: includes/resource/options/headers_setting.php:1059
+#: includes/resource/options/headers_setting.php:1067
+msgid "Enter Welcome 1"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:18
+#: includes/resource/options/headers_setting.php:280
+#: includes/resource/options/headers_setting.php:540
+#: includes/resource/options/headers_setting.php:800
+#: includes/resource/options/headers_setting.php:1060
+msgid "Welcome to Us"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:24
+#: includes/resource/options/headers_setting.php:286
+#: includes/resource/options/headers_setting.php:546
+#: includes/resource/options/headers_setting.php:806
+#: includes/resource/options/headers_setting.php:1066
+msgid "About Text"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:26
+#: includes/resource/options/headers_setting.php:288
+#: includes/resource/options/headers_setting.php:548
+#: includes/resource/options/headers_setting.php:808
+#: includes/resource/options/headers_setting.php:1068
+msgid "We are Best"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:33
+#: includes/resource/options/headers_setting.php:295
+#: includes/resource/options/headers_setting.php:555
+#: includes/resource/options/headers_setting.php:815
+#: includes/resource/options/headers_setting.php:1075
+msgid "E-mail Title"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:34
+#: includes/resource/options/headers_setting.php:296
+#: includes/resource/options/headers_setting.php:556
+#: includes/resource/options/headers_setting.php:816
+#: includes/resource/options/headers_setting.php:1076
+msgid "Enter E-mail Title"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:35
+#: includes/resource/options/headers_setting.php:43
+#: includes/resource/options/headers_setting.php:297
+#: includes/resource/options/headers_setting.php:305
+#: includes/resource/options/headers_setting.php:557
+#: includes/resource/options/headers_setting.php:565
+#: includes/resource/options/headers_setting.php:817
+#: includes/resource/options/headers_setting.php:825
+#: includes/resource/options/headers_setting.php:1077
+#: includes/resource/options/headers_setting.php:1085
+msgid "e-mail us"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:41
+#: includes/resource/options/headers_setting.php:303
+#: includes/resource/options/headers_setting.php:563
+#: includes/resource/options/headers_setting.php:823
+#: includes/resource/options/headers_setting.php:1083
+msgid "E-mail Address"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:42
+#: includes/resource/options/headers_setting.php:304
+#: includes/resource/options/headers_setting.php:564
+#: includes/resource/options/headers_setting.php:824
+#: includes/resource/options/headers_setting.php:1084
+msgid "Enter E-mail Address"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:49
+#: includes/resource/options/headers_setting.php:311
+#: includes/resource/options/headers_setting.php:571
+#: includes/resource/options/headers_setting.php:831
+#: includes/resource/options/headers_setting.php:1091
+msgid "Address Title"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:50
+#: includes/resource/options/headers_setting.php:312
+#: includes/resource/options/headers_setting.php:572
+#: includes/resource/options/headers_setting.php:832
+#: includes/resource/options/headers_setting.php:1092
+msgid "Enter Address Title"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:51
+#: includes/resource/options/headers_setting.php:313
+#: includes/resource/options/headers_setting.php:573
+#: includes/resource/options/headers_setting.php:833
+#: includes/resource/options/headers_setting.php:1093
+msgid "Our Address"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:57
+#: includes/resource/options/headers_setting.php:319
+#: includes/resource/options/headers_setting.php:579
+#: includes/resource/options/headers_setting.php:839
+#: includes/resource/options/headers_setting.php:1099
+msgid "Address 1st Line"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:58
+#: includes/resource/options/headers_setting.php:320
+#: includes/resource/options/headers_setting.php:580
+#: includes/resource/options/headers_setting.php:840
+#: includes/resource/options/headers_setting.php:1100
+msgid "Enter Address 1st Line"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:59
+#: includes/resource/options/headers_setting.php:321
+#: includes/resource/options/headers_setting.php:581
+#: includes/resource/options/headers_setting.php:841
+#: includes/resource/options/headers_setting.php:1101
+msgid "House 35 R/A,Street"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:65
+#: includes/resource/options/headers_setting.php:327
+#: includes/resource/options/headers_setting.php:587
+#: includes/resource/options/headers_setting.php:847
+#: includes/resource/options/headers_setting.php:1107
+msgid "Address 2nd Line"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:66
+#: includes/resource/options/headers_setting.php:328
+#: includes/resource/options/headers_setting.php:588
+#: includes/resource/options/headers_setting.php:848
+#: includes/resource/options/headers_setting.php:1108
+msgid "Enter Address 2nd Line"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:67
+#: includes/resource/options/headers_setting.php:329
+#: includes/resource/options/headers_setting.php:589
+#: includes/resource/options/headers_setting.php:849
+#: includes/resource/options/headers_setting.php:1109
+msgid "Sydney Australia"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:73
+#: includes/resource/options/headers_setting.php:335
+#: includes/resource/options/headers_setting.php:595
+#: includes/resource/options/headers_setting.php:855
+#: includes/resource/options/headers_setting.php:1115
+msgid "Phone Title"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:74
+#: includes/resource/options/headers_setting.php:336
+#: includes/resource/options/headers_setting.php:596
+#: includes/resource/options/headers_setting.php:856
+#: includes/resource/options/headers_setting.php:1116
+msgid "Enter Text of Phone"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:75
+#: includes/resource/options/headers_setting.php:337
+#: includes/resource/options/headers_setting.php:597
+#: includes/resource/options/headers_setting.php:857
+#: includes/resource/options/headers_setting.php:1117
+msgid "Call Us"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:81
+#: includes/resource/options/headers_setting.php:343
+#: includes/resource/options/headers_setting.php:603
+#: includes/resource/options/headers_setting.php:863
+#: includes/resource/options/headers_setting.php:1123
+msgid "Phone Number"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:82
+#: includes/resource/options/headers_setting.php:344
+#: includes/resource/options/headers_setting.php:604
+#: includes/resource/options/headers_setting.php:864
+#: includes/resource/options/headers_setting.php:1124
+msgid "Enter Number"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:83
+#: includes/resource/options/headers_setting.php:345
+#: includes/resource/options/headers_setting.php:605
+#: includes/resource/options/headers_setting.php:865
+#: includes/resource/options/headers_setting.php:1125
+msgid "+357 984538"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:89
+#: includes/resource/options/headers_setting.php:351
+#: includes/resource/options/headers_setting.php:611
+#: includes/resource/options/headers_setting.php:871
+#: includes/resource/options/headers_setting.php:1131
+msgid "Time Title"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:90
+#: includes/resource/options/headers_setting.php:352
+#: includes/resource/options/headers_setting.php:612
+#: includes/resource/options/headers_setting.php:872
+#: includes/resource/options/headers_setting.php:1132
+msgid "Enter Time Title"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:91
+#: includes/resource/options/headers_setting.php:353
+#: includes/resource/options/headers_setting.php:613
+#: includes/resource/options/headers_setting.php:873
+#: includes/resource/options/headers_setting.php:1133
+msgid "We are Open"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:97
+#: includes/resource/options/headers_setting.php:359
+#: includes/resource/options/headers_setting.php:619
+#: includes/resource/options/headers_setting.php:879
+#: includes/resource/options/headers_setting.php:1139
+msgid "Open Time"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:98
+#: includes/resource/options/headers_setting.php:360
+#: includes/resource/options/headers_setting.php:620
+#: includes/resource/options/headers_setting.php:880
+#: includes/resource/options/headers_setting.php:1140
+msgid "Enter Time Office"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:99
+#: includes/resource/options/headers_setting.php:361
+#: includes/resource/options/headers_setting.php:621
+#: includes/resource/options/headers_setting.php:881
+#: includes/resource/options/headers_setting.php:1141
+msgid "Every day 9:00am -6:00pm"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:105
+#: includes/resource/options/headers_setting.php:367
+#: includes/resource/options/headers_setting.php:627
+#: includes/resource/options/headers_setting.php:887
+#: includes/resource/options/headers_setting.php:1147
+msgid "Close Time"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:106
+#: includes/resource/options/headers_setting.php:368
+#: includes/resource/options/headers_setting.php:628
+#: includes/resource/options/headers_setting.php:888
+#: includes/resource/options/headers_setting.php:1148
+msgid "Enter Close Office"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:107
+#: includes/resource/options/headers_setting.php:369
+#: includes/resource/options/headers_setting.php:629
+#: includes/resource/options/headers_setting.php:889
+#: includes/resource/options/headers_setting.php:1149
+msgid "We are close Sunday"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:113
+#: includes/resource/options/headers_setting.php:375
+#: includes/resource/options/headers_setting.php:635
+#: includes/resource/options/headers_setting.php:895
+#: includes/resource/options/headers_setting.php:1155
+msgid "Quote Show"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:114
+#: includes/resource/options/headers_setting.php:376
+#: includes/resource/options/headers_setting.php:636
+#: includes/resource/options/headers_setting.php:896
+#: includes/resource/options/headers_setting.php:1156
+msgid "Enable Quote Show"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:121
+#: includes/resource/options/headers_setting.php:383
+#: includes/resource/options/headers_setting.php:643
+#: includes/resource/options/headers_setting.php:903
+#: includes/resource/options/headers_setting.php:1163
+msgid "Quote Title"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:122
+#: includes/resource/options/headers_setting.php:384
+#: includes/resource/options/headers_setting.php:644
+#: includes/resource/options/headers_setting.php:904
+#: includes/resource/options/headers_setting.php:1164
+msgid "Enter Quote Title"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:123
+#: includes/resource/options/headers_setting.php:385
+#: includes/resource/options/headers_setting.php:645
+#: includes/resource/options/headers_setting.php:905
+#: includes/resource/options/headers_setting.php:1165
+msgid "Get Quote"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:130
+#: includes/resource/options/headers_setting.php:392
+#: includes/resource/options/headers_setting.php:652
+#: includes/resource/options/headers_setting.php:912
+#: includes/resource/options/headers_setting.php:1172
+msgid "Quote Link"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:131
+#: includes/resource/options/headers_setting.php:393
+#: includes/resource/options/headers_setting.php:653
+#: includes/resource/options/headers_setting.php:913
+#: includes/resource/options/headers_setting.php:1173
+msgid "Enter The Quote Link"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:132
+#: includes/resource/options/headers_setting.php:156
+#: includes/resource/options/headers_setting.php:181
+#: includes/resource/options/headers_setting.php:205
+#: includes/resource/options/headers_setting.php:244
+#: includes/resource/options/headers_setting.php:394
+#: includes/resource/options/headers_setting.php:418
+#: includes/resource/options/headers_setting.php:443
+#: includes/resource/options/headers_setting.php:467
+#: includes/resource/options/headers_setting.php:506
+#: includes/resource/options/headers_setting.php:654
+#: includes/resource/options/headers_setting.php:678
+#: includes/resource/options/headers_setting.php:703
+#: includes/resource/options/headers_setting.php:727
+#: includes/resource/options/headers_setting.php:766
+#: includes/resource/options/headers_setting.php:914
+#: includes/resource/options/headers_setting.php:938
+#: includes/resource/options/headers_setting.php:963
+#: includes/resource/options/headers_setting.php:987
+#: includes/resource/options/headers_setting.php:1026
+#: includes/resource/options/headers_setting.php:1174
+#: includes/resource/options/headers_setting.php:1198
+#: includes/resource/options/headers_setting.php:1223
+#: includes/resource/options/headers_setting.php:1247
+#: includes/resource/options/headers_setting.php:1286
+msgid "#"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:138
+#: includes/resource/options/headers_setting.php:400
+#: includes/resource/options/headers_setting.php:660
+#: includes/resource/options/headers_setting.php:920
+#: includes/resource/options/headers_setting.php:1180
+msgid "Button Show"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:139
+#: includes/resource/options/headers_setting.php:401
+#: includes/resource/options/headers_setting.php:661
+#: includes/resource/options/headers_setting.php:921
+#: includes/resource/options/headers_setting.php:1181
+msgid "Enable Button Show"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:146
+#: includes/resource/options/headers_setting.php:408
+#: includes/resource/options/headers_setting.php:668
+#: includes/resource/options/headers_setting.php:928
+#: includes/resource/options/headers_setting.php:1188
+msgid "Button Title"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:147
+#: includes/resource/options/headers_setting.php:409
+#: includes/resource/options/headers_setting.php:669
+#: includes/resource/options/headers_setting.php:929
+#: includes/resource/options/headers_setting.php:1189
+msgid "Enter Button Title"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:148
+#: includes/resource/options/headers_setting.php:410
+#: includes/resource/options/headers_setting.php:670
+#: includes/resource/options/headers_setting.php:930
+#: includes/resource/options/headers_setting.php:1190
+msgid "Sing Up"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:154
+#: includes/resource/options/headers_setting.php:416
+#: includes/resource/options/headers_setting.php:676
+#: includes/resource/options/headers_setting.php:936
+#: includes/resource/options/headers_setting.php:1196
+msgid "Button Link"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:155
+#: includes/resource/options/headers_setting.php:417
+#: includes/resource/options/headers_setting.php:677
+#: includes/resource/options/headers_setting.php:937
+#: includes/resource/options/headers_setting.php:1197
+msgid "Enter The Button Link"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:163
+#: includes/resource/options/headers_setting.php:425
+#: includes/resource/options/headers_setting.php:685
+#: includes/resource/options/headers_setting.php:945
+#: includes/resource/options/headers_setting.php:1205
+msgid "Login Show"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:164
+#: includes/resource/options/headers_setting.php:426
+#: includes/resource/options/headers_setting.php:686
+#: includes/resource/options/headers_setting.php:946
+#: includes/resource/options/headers_setting.php:1206
+msgid "Enable Login Show"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:171
+#: includes/resource/options/headers_setting.php:433
+#: includes/resource/options/headers_setting.php:693
+#: includes/resource/options/headers_setting.php:953
+#: includes/resource/options/headers_setting.php:1213
+msgid "Login Title"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:172
+#: includes/resource/options/headers_setting.php:434
+#: includes/resource/options/headers_setting.php:694
+#: includes/resource/options/headers_setting.php:954
+#: includes/resource/options/headers_setting.php:1214
+msgid "Enter Login Title"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:173
+#: includes/resource/options/headers_setting.php:435
+#: includes/resource/options/headers_setting.php:695
+#: includes/resource/options/headers_setting.php:955
+#: includes/resource/options/headers_setting.php:1215
+msgid "Login"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:179
+#: includes/resource/options/headers_setting.php:441
+#: includes/resource/options/headers_setting.php:701
+#: includes/resource/options/headers_setting.php:961
+#: includes/resource/options/headers_setting.php:1221
+msgid "Login Link"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:180
+#: includes/resource/options/headers_setting.php:442
+#: includes/resource/options/headers_setting.php:702
+#: includes/resource/options/headers_setting.php:962
+#: includes/resource/options/headers_setting.php:1222
+msgid "Enter The Login Link"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:187
+#: includes/resource/options/headers_setting.php:449
+#: includes/resource/options/headers_setting.php:709
+#: includes/resource/options/headers_setting.php:969
+#: includes/resource/options/headers_setting.php:1229
+msgid "Download Show"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:188
+#: includes/resource/options/headers_setting.php:450
+#: includes/resource/options/headers_setting.php:710
+#: includes/resource/options/headers_setting.php:970
+#: includes/resource/options/headers_setting.php:1230
+msgid "Enable Download Show"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:195
+#: includes/resource/options/headers_setting.php:457
+#: includes/resource/options/headers_setting.php:717
+#: includes/resource/options/headers_setting.php:977
+#: includes/resource/options/headers_setting.php:1237
+msgid "Download Title"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:196
+#: includes/resource/options/headers_setting.php:458
+#: includes/resource/options/headers_setting.php:718
+#: includes/resource/options/headers_setting.php:978
+#: includes/resource/options/headers_setting.php:1238
+msgid "Enter Download Title"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:197
+#: includes/resource/options/headers_setting.php:459
+#: includes/resource/options/headers_setting.php:719
+#: includes/resource/options/headers_setting.php:979
+#: includes/resource/options/headers_setting.php:1239
+msgid "Download"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:203
+#: includes/resource/options/headers_setting.php:465
+#: includes/resource/options/headers_setting.php:725
+#: includes/resource/options/headers_setting.php:985
+#: includes/resource/options/headers_setting.php:1245
+msgid "Download Link"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:204
+#: includes/resource/options/headers_setting.php:466
+#: includes/resource/options/headers_setting.php:726
+#: includes/resource/options/headers_setting.php:986
+#: includes/resource/options/headers_setting.php:1246
+msgid "Enter The Download Link"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:212
+#: includes/resource/options/headers_setting.php:474
+#: includes/resource/options/headers_setting.php:734
+#: includes/resource/options/headers_setting.php:994
+#: includes/resource/options/headers_setting.php:1254
+msgid "Social Icon Show"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:213
+#: includes/resource/options/headers_setting.php:475
+#: includes/resource/options/headers_setting.php:735
+#: includes/resource/options/headers_setting.php:995
+#: includes/resource/options/headers_setting.php:1255
+msgid "Enable Social Icon Show"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:220
+#: includes/resource/options/headers_setting.php:482
+#: includes/resource/options/headers_setting.php:742
+#: includes/resource/options/headers_setting.php:1002
+#: includes/resource/options/headers_setting.php:1262
+msgid "Social Title"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:221
+#: includes/resource/options/headers_setting.php:483
+#: includes/resource/options/headers_setting.php:743
+#: includes/resource/options/headers_setting.php:1003
+#: includes/resource/options/headers_setting.php:1263
+msgid "Enter Social Title"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:222
+#: includes/resource/options/headers_setting.php:484
+#: includes/resource/options/headers_setting.php:744
+#: includes/resource/options/headers_setting.php:1004
+#: includes/resource/options/headers_setting.php:1264
+msgid "Share"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:234
+#: includes/resource/options/headers_setting.php:496
+#: includes/resource/options/headers_setting.php:756
+#: includes/resource/options/headers_setting.php:1016
+#: includes/resource/options/headers_setting.php:1276
+msgid "Shop Button Show"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:235
+#: includes/resource/options/headers_setting.php:497
+#: includes/resource/options/headers_setting.php:757
+#: includes/resource/options/headers_setting.php:1017
+#: includes/resource/options/headers_setting.php:1277
+msgid "Enable Shop Button Show"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:242
+#: includes/resource/options/headers_setting.php:504
+#: includes/resource/options/headers_setting.php:764
+#: includes/resource/options/headers_setting.php:1024
+#: includes/resource/options/headers_setting.php:1284
+msgid "Shop Link"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:243
+#: includes/resource/options/headers_setting.php:505
+#: includes/resource/options/headers_setting.php:765
+#: includes/resource/options/headers_setting.php:1025
+#: includes/resource/options/headers_setting.php:1285
+msgid "Enter The Shop Link"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:250
+#: includes/resource/options/headers_setting.php:512
+#: includes/resource/options/headers_setting.php:772
+#: includes/resource/options/headers_setting.php:1032
+#: includes/resource/options/headers_setting.php:1292
+msgid "Search Show"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:251
+#: includes/resource/options/headers_setting.php:513
+#: includes/resource/options/headers_setting.php:773
+#: includes/resource/options/headers_setting.php:1033
+#: includes/resource/options/headers_setting.php:1293
+msgid "Enable Search Show"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:258
+#: includes/resource/options/headers_setting.php:520
+#: includes/resource/options/headers_setting.php:780
+#: includes/resource/options/headers_setting.php:1040
+#: includes/resource/options/headers_setting.php:1300
+#: includes/resource/options/search_setting.php:130
+msgid "Search Title"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:259
+#: includes/resource/options/headers_setting.php:521
+#: includes/resource/options/headers_setting.php:781
+#: includes/resource/options/headers_setting.php:1041
+#: includes/resource/options/headers_setting.php:1301
+msgid "Enter Search Title"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:260
+#: includes/resource/options/headers_setting.php:522
+#: includes/resource/options/headers_setting.php:782
+#: includes/resource/options/headers_setting.php:1042
+#: includes/resource/options/headers_setting.php:1302
+msgid "Search..."
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:279
+msgid "Enter Welcome"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:1310
+#: includes/resource/options/headers_setting.php:1353
+#: includes/resource/options/headers_setting.php:1384
+msgid "Header 3 Image 1"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:1316
+#: includes/resource/options/headers_setting.php:1359
+#: includes/resource/options/headers_setting.php:1390
+msgid "Header 3 Image 2"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:1322
+#: includes/resource/options/headers_setting.php:1365
+#: includes/resource/options/headers_setting.php:1396
+msgid "Header 3 Image 3"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:1328
+#: includes/resource/options/headers_setting.php:1371
+#: includes/resource/options/headers_setting.php:1402
+msgid "Header 3 Image 4"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:1334
+#: includes/resource/options/headers_setting.php:1377
+#: includes/resource/options/headers_setting.php:1408
+msgid "Header 3 Image 5"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:1340
+msgid "Header 3 Image 6"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:1346
+msgid "Header 3 Image 7"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:1414
+msgid "Header Setting"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:1422
+msgid "Header Source Type"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:1444
+msgid "Header Settings"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:1450
+#: includes/resource/options/headers_setting.php:1451
+msgid "Choose Header Styles"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:1455
+msgid "Header Style 1"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:1459
+msgid "Header Style 2"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:1463
+msgid "Header Style 3"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:1484
+msgid "Header Style One Settings"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:1543
+msgid "Header Style Two Settings"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:1599
+msgid "Header Style Three Settings"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:1662
+msgid "Header Style Four Settings"
+msgstr ""
+
+#: includes/resource/options/headers_setting.php:1717
+msgid "Header Style Five Settings"
+msgstr ""
+
+#: includes/resource/options/heading_setting.php:1
+msgid "Heading Settings"
+msgstr ""
+
+#: includes/resource/options/heading_setting.php:1
+msgid "Use H1 Custom Font"
+msgstr ""
+
+#: includes/resource/options/heading_setting.php:1
+msgid "Enable to customize the theme heading h1 tag font"
+msgstr ""
+
+#: includes/resource/options/heading_setting.php:1
+msgid "H1 Font Typography"
+msgstr ""
+
+#: includes/resource/options/heading_setting.php:1
+msgid "Apply options to customize the h1 heading font for the theme"
+msgstr ""
+
+#: includes/resource/options/heading_setting.php:1
+msgid "Use H2 Custom Font"
+msgstr ""
+
+#: includes/resource/options/heading_setting.php:1
+msgid "Enable to customize the theme heading h2 tag font"
+msgstr ""
+
+#: includes/resource/options/heading_setting.php:1
+msgid "H2 Font Typography"
+msgstr ""
+
+#: includes/resource/options/heading_setting.php:1
+msgid "Apply options to customize the h2 heading font for the theme"
+msgstr ""
+
+#: includes/resource/options/heading_setting.php:1
+msgid "Use H3 Custom Font"
+msgstr ""
+
+#: includes/resource/options/heading_setting.php:1
+msgid "Enable to customize the theme heading h3 tag font"
+msgstr ""
+
+#: includes/resource/options/heading_setting.php:1
+msgid "H3 Font Typography"
+msgstr ""
+
+#: includes/resource/options/heading_setting.php:1
+msgid "Apply options to customize the h3 heading  for the theme"
+msgstr ""
+
+#: includes/resource/options/heading_setting.php:1
+msgid "Use H4 Custom Font"
+msgstr ""
+
+#: includes/resource/options/heading_setting.php:1
+msgid "Enable to customize the theme heading h4 tag font"
+msgstr ""
+
+#: includes/resource/options/heading_setting.php:1
+msgid "H4 Font Typography"
+msgstr ""
+
+#: includes/resource/options/heading_setting.php:1
+msgid "Apply options to customize the h4 heading font for the theme"
+msgstr ""
+
+#: includes/resource/options/heading_setting.php:1
+msgid "Use H5 Custom Font"
+msgstr ""
+
+#: includes/resource/options/heading_setting.php:1
+msgid "Enable to customize the theme heading h5 tag font"
+msgstr ""
+
+#: includes/resource/options/heading_setting.php:1
+msgid "H5 Font Typography"
+msgstr ""
+
+#: includes/resource/options/heading_setting.php:1
+msgid "Apply options to customize the h5 heading font for the theme"
+msgstr ""
+
+#: includes/resource/options/heading_setting.php:1
+msgid "Use H6 Custom Font"
+msgstr ""
+
+#: includes/resource/options/heading_setting.php:1
+msgid "Enable to customize the theme heading h6 tag font"
+msgstr ""
+
+#: includes/resource/options/heading_setting.php:1
+msgid "H6 Font Typography"
+msgstr ""
+
+#: includes/resource/options/heading_setting.php:1
+msgid "Apply options to customize the h6 heading font for the theme"
+msgstr ""
+
+#: includes/resource/options/language_setting.php:5
+msgid "Language Settings"
+msgstr ""
+
+#: includes/resource/options/language_setting.php:13
+msgid "Please upload .mo language file"
+msgstr ""
+
+#: includes/resource/options/logo_setting.php:3
+msgid "Logo Setting"
+msgstr ""
+
+#: includes/resource/options/logo_setting.php:12
+msgid "Favicon"
+msgstr ""
+
+#: includes/resource/options/logo_setting.php:13
+msgid "Insert site favicon image"
+msgstr ""
+
+#: includes/resource/options/logo_setting.php:22
+msgid "Enable Normal Logo"
+msgstr ""
+
+#: includes/resource/options/logo_setting.php:29
+msgid "Normal Logo"
+msgstr ""
+
+#: includes/resource/options/logo_setting.php:30
+#: includes/resource/options/logo_setting.php:55
+#: includes/resource/options/logo_setting.php:133
+msgid "Insert site normal logo image"
+msgstr ""
+
+#: includes/resource/options/logo_setting.php:37
+msgid "Normal Logo Dimentions"
+msgstr ""
+
+#: includes/resource/options/logo_setting.php:47
+msgid "Enable Small Logo"
+msgstr ""
+
+#: includes/resource/options/logo_setting.php:54
+msgid "Small Logo"
+msgstr ""
+
+#: includes/resource/options/logo_setting.php:62
+msgid "Small Logo Dimentions"
+msgstr ""
+
+#: includes/resource/options/logo_setting.php:72
+msgid "Enable 2nd Logo"
+msgstr ""
+
+#: includes/resource/options/logo_setting.php:79
+msgid "2nd Logo"
+msgstr ""
+
+#: includes/resource/options/logo_setting.php:80
+msgid "Insert site 2nd Logo logo image"
+msgstr ""
+
+#: includes/resource/options/logo_setting.php:87
+msgid "2nd Logo Dimentions"
+msgstr ""
+
+#: includes/resource/options/logo_setting.php:98
+msgid "Enable 3rd Logo"
+msgstr ""
+
+#: includes/resource/options/logo_setting.php:105
+msgid "3rd Logo"
+msgstr ""
+
+#: includes/resource/options/logo_setting.php:106
+msgid "Insert site 3rd Logo logo image"
+msgstr ""
+
+#: includes/resource/options/logo_setting.php:113
+msgid "3rd Logo Dimentions"
+msgstr ""
+
+#: includes/resource/options/logo_setting.php:125
+msgid "Enable Footer Logo"
+msgstr ""
+
+#: includes/resource/options/logo_setting.php:132
+msgid "Footer Logo"
+msgstr ""
+
+#: includes/resource/options/logo_setting.php:140
+msgid "Footer Logo Dimentions"
+msgstr ""
+
+#: includes/resource/options/search_setting.php:4
+msgid "Search Page Settings"
+msgstr ""
+
+#: includes/resource/options/search_setting.php:12
+msgid "Search Source Type"
+msgstr ""
+
+#: includes/resource/options/search_setting.php:34
+msgid "Search Default"
+msgstr ""
+
+#: includes/resource/options/search_setting.php:131
+msgid "Enter Search section title that you want to show"
+msgstr ""
+
+#: includes/resource/options/search_setting.php:137
+msgid "Search Page Description"
+msgstr ""
+
+#: includes/resource/options/search_setting.php:138
+msgid "Enter Search page description that you want to show."
+msgstr ""
+
+#: includes/resource/options/search_setting.php:144
+msgid "Show Search Form"
+msgstr ""
+
+#: includes/resource/options/search_setting.php:145
+msgid "Enable to show search form on 404 page"
+msgstr ""
+
+#: includes/resource/options/search_setting.php:168
+msgid "Search Background"
+msgstr ""
+
+#: includes/resource/options/search_setting.php:178
+msgid "Search Image"
+msgstr ""
+
+#: includes/resource/options/search_setting.php:179
+msgid "Insert Search Image image for banner"
+msgstr ""
+
+#: includes/resource/options/sidebar_setting.php:5
+msgid "Custom Sidebar Settings"
+msgstr ""
+
+#: includes/resource/options/sidebar_setting.php:13
+msgid "Dynamic Custom Sidebar"
+msgstr ""
+
+#: includes/resource/options/sidebar_setting.php:14
+msgid "This section is used to create custom sidebar"
+msgstr ""
+
+#: includes/resource/options/single_post_setting.php:4
+msgid "Single Post Settings"
+msgstr ""
+
+#: includes/resource/options/single_post_setting.php:12
+msgid "Single Post Source Type"
+msgstr ""
+
+#: includes/resource/options/single_post_setting.php:23
+msgid "Post Default"
+msgstr ""
+
+#: includes/resource/options/single_post_setting.php:30
+msgid "Show Date"
+msgstr ""
+
+#: includes/resource/options/single_post_setting.php:31
+msgid "Enable to show post publish date on posts detail page"
+msgstr ""
+
+#: includes/resource/options/single_post_setting.php:38
+msgid "Enable to show author on posts detail page"
+msgstr ""
+
+#: includes/resource/options/single_post_setting.php:45
+msgid "Show Comments"
+msgstr ""
+
+#: includes/resource/options/single_post_setting.php:46
+msgid "Enable to show number of comments on posts single page"
+msgstr ""
+
+#: includes/resource/options/single_post_setting.php:52
+msgid "Show Category"
+msgstr ""
+
+#: includes/resource/options/single_post_setting.php:53
+msgid "Enable to show post category on posts single page"
+msgstr ""
+
+#: includes/resource/options/single_post_setting.php:60
+msgid "Show Tags"
+msgstr ""
+
+#: includes/resource/options/single_post_setting.php:61
+msgid "Enable to show post tags on posts single page"
+msgstr ""
+
+#: includes/resource/options/single_post_setting.php:67
+msgid "Show Social Share"
+msgstr ""
+
+#: includes/resource/options/single_post_setting.php:68
+msgid "Enable to show social Share options"
+msgstr ""
+
+#: includes/resource/options/single_post_setting.php:74
+msgid "Post Sharing Icons"
+msgstr ""
+
+#: includes/resource/options/single_post_setting.php:75
+msgid "Select icons to activate social sharing icons in post detail page"
+msgstr ""
+
+#: includes/resource/options/single_post_setting.php:80
+msgid "Facebook"
+msgstr ""
+
+#: includes/resource/options/single_post_setting.php:81
+msgid "Twitter"
+msgstr ""
+
+#: includes/resource/options/single_post_setting.php:82
+msgid "Google Plus"
+msgstr ""
+
+#: includes/resource/options/single_post_setting.php:83
+msgid "Digg Digg"
+msgstr ""
+
+#: includes/resource/options/single_post_setting.php:84
+msgid "Reddit"
+msgstr ""
+
+#: includes/resource/options/single_post_setting.php:85
+msgid "Linkedin"
+msgstr ""
+
+#: includes/resource/options/single_post_setting.php:86
+msgid "Pinterest"
+msgstr ""
+
+#: includes/resource/options/single_post_setting.php:87
+msgid "Sumbleupon"
+msgstr ""
+
+#: includes/resource/options/single_post_setting.php:88
+msgid "Tumblr"
+msgstr ""
+
+#: includes/resource/options/single_post_setting.php:89
+msgid "Email"
+msgstr ""
+
+#: includes/resource/options/single_post_setting.php:96
+msgid "Show Author Box"
+msgstr ""
+
+#: includes/resource/options/single_post_setting.php:97
+msgid "Enable to show author box on post detail page."
+msgstr ""
+
+#: includes/resource/options/tag_setting.php:4
+msgid "Tag Page Settings"
+msgstr ""
+
+#: includes/resource/options/tag_setting.php:12
+msgid "Tag Source Type"
+msgstr ""
+
+#: includes/resource/options/tag_setting.php:34
+msgid "Tag Default"
+msgstr ""
+
+#: includes/resource/options/typography_setting.php:5
+msgid "Typography Settings"
+msgstr ""
+
+#: page.php:57
+msgid "Pages:"
+msgstr ""
+
+#: templates/blog-single/author_box.php:7
+msgid "By"
+msgstr ""
+
+#: templates/blog-single/next_page.php:3
+msgid "Previous Page"
+msgstr ""
+
+#: templates/blog-single/next_page.php:5
+msgid "Next Page"
+msgstr ""
+
+#: templates/blog-single/next_post.php:4
+msgid "Previous Post"
+msgstr ""
+
+#: templates/blog-single/next_post.php:6
+msgid "Next Post"
+msgstr ""
+
+#: templates/blog-single/social_share.php:8
+msgid "Tags:"
+msgstr ""
+
+#: templates/blog/blog.php:33
+msgid "By: "
+msgstr ""
+
+#: templates/custom-posts/single-project.php:17
+msgid "Posted In:"
+msgstr ""
+
+#: templates/custom-posts/single-project.php:49
+msgid "closed"
+msgstr ""
+
+#: templates/custom-posts/single-project.php:60
+msgid "Social Sharing:"
+msgstr ""
+
+#: templates/header/header_v2.php:19 templates/header/header_v3.php:34
+msgid "Close"
+msgstr ""
+
+#: templates/header/header_v2.php:32 templates/header/header_v3.php:47
+msgid "Recent Search Keywords"
+msgstr ""
+
+#: templates/header/header_v2.php:34 templates/header/header_v3.php:49
+msgid "Finance"
+msgstr ""
+
+#: templates/header/header_v2.php:35 templates/header/header_v3.php:50
+msgid "Idea"
+msgstr ""
+
+#: templates/header/header_v2.php:36 templates/header/header_v3.php:51
+msgid "Service"
+msgstr ""
+
+#: templates/header/header_v2.php:37 templates/header/header_v3.php:52
+msgid "Growth"
+msgstr ""
+
+#: templates/header/header_v2.php:38 templates/header/header_v3.php:53
+msgid "Plan"
+msgstr ""
+
+#: templates/search.php:22
+msgid "Oops! Search not Found"
+msgstr ""
+
+#: templates/search.php:32
+msgid "1. Check the Spelling "
+msgstr ""
+
+#: templates/search.php:34
+msgid "2. Check the Caps Lock"
+msgstr ""
+
+#: templates/search.php:36
+msgid "3. Press Enter correctly or Press F5"
+msgstr ""
